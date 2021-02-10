@@ -1,0 +1,22 @@
+переменные каждый раз объявлять
+реализовать редьюс самостоятельно упрощенные
+
+почитать:
+
+ ☐ https://github.com/uladbolatau/js-assignments/blob/master/task/04-arrays-tasks.js
+  ☐ 39: все не так просто
+    keys()
+
+    [...[1, 2, 3], ...[4, 5, 6]]
+    spret & rest operators (...)
+
+   ☐ 123: попробовать forEach вместо map
+   ☐ до 188 не проверяли
+
+ ☐ https://github.com/uladbolatau/js-assignments/blob/master/task/041-arrays-tasks.js
+   ☐ 15: почитать разницу
+      Array()
+      Array.of()
+      Array.from()
+      []
+
